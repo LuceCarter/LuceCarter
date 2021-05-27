@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  repository_dispatch:
+    types: [contentful.deploy]
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jakejarvis/wait-action@master
+        with:
+          time: "5m"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://lucecarter/feed.xml"
+          commit_message: "Updated README with latest blog posts"
