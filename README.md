@@ -29,3 +29,8 @@ Imposter Syndrome Battleground is the nickname for my Twitch stream, as well as 
 Software development saved my life when I was a teenager by introducing me to my first proper, real-life friends. But it means over the years, both at uni and then later working as a developer, I have struggled for confidence and Imposter Syndrome has bitten hard. In my work life, it has led me to working as a tester, allowing me a break from the pressure of full-time coding but also allowing me to pursue a passion for the end user experience and automation.
 
 I stream on Twitch, write on my [blog](https://lucecarter.co.uk) and public speak in the hopes of being open about the struggles but also showing that we are always all learning, nobody knows everything and it's OK to not always know the answers, it doesn't make you a fraud!
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
