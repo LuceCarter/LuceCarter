@@ -33,9 +33,9 @@ I stream on Twitch, write on my [blog](https://lucecarter.co.uk) and public spea
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is a test blog post - please ignore!](https://www.lucecarter.co.uk/blog/this-is-a-test-blog-post-please-ignore)
 - [Zoom Zoom for Streamers - How to zoom in on just the code in VS Code](https://www.lucecarter.co.uk/blog/zoom-zoom-for-streamers-how-to-zoom-in-on-just-the-code-in-vs-code)
 - [Why productivity reminds me of plants](https://www.lucecarter.co.uk/blog/why-productivity-reminds-me-of-plants)
 - [How to set custom explosions in Powermode for VS Code](https://www.lucecarter.co.uk/blog/how-to-set-custom-explosions-in-powermode-for-vs-code)
 - [How to copy and paste in the CLI for both Mac and Windows](https://www.lucecarter.co.uk/blog/how-to-copy-and-paste-in-the-cli-for-both-mac-and-windows)
-- [Non-code Youtubers I enjoy](https://www.lucecarter.co.uk/blog/non-code-youtubers-i-enjoy)
 <!-- BLOG-POST-LIST:END -->
