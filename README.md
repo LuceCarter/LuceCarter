@@ -33,9 +33,9 @@ I stream on Twitch, write on my [blog](https://lucecarter.co.uk) and public spea
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dreams can come true! My first week as a Developer Advocate at MongoDB](https://www.lucecarter.co.uk/blog/dreams-can-come-true-my-first-week-as-a-developer-advocate-at-mongodb)
-- [Troubleshooting Webhooks in Contentful](https://www.lucecarter.co.uk/blog/troubleshooting-webhooks-in-contentful)
-- [Zoom Zoom for Streamers - How to zoom in on just the code in VS Code](https://www.lucecarter.co.uk/blog/zoom-zoom-for-streamers-how-to-zoom-in-on-just-the-code-in-vs-code)
-- [Why productivity reminds me of plants](https://www.lucecarter.co.uk/blog/why-productivity-reminds-me-of-plants)
-- [How to set custom explosions in Powermode for VS Code](https://www.lucecarter.co.uk/blog/how-to-set-custom-explosions-in-powermode-for-vs-code)
+- [I started a newsletter!](https://lucecarter.co.uk/blog/i-started-a-newsletter)
+- [Dreams can come true! My first week as a Developer Advocate at MongoDB](https://lucecarter.co.uk/blog/dreams-can-come-true-my-first-week-as-a-developer-advocate-at-mongodb)
+- [Troubleshooting Webhooks in Contentful](https://lucecarter.co.uk/blog/troubleshooting-webhooks-in-contentful)
+- [Zoom Zoom for Streamers - How to zoom in on just the code in VS Code](https://lucecarter.co.uk/blog/zoom-zoom-for-streamers-how-to-zoom-in-on-just-the-code-in-vs-code)
+- [Why productivity reminds me of plants](https://lucecarter.co.uk/blog/why-productivity-reminds-me-of-plants)
 <!-- BLOG-POST-LIST:END -->
