@@ -33,9 +33,9 @@ I stream on Twitch, write on my [blog](https://lucecarter.co.uk) and public spea
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Tips for Writing a great talk abstract](https://lucecarter.co.uk/blog/top-5-tips-for-writing-a-great-talk-abstract)
+- [My Goals for 2022](https://lucecarter.co.uk/blog/my-goals-for-2022)
 - [Advent of Tips: #1 - Creating a gitignore file for your .NET projects](https://lucecarter.co.uk/blog/advent-of-tips-1-creating-a-gitignore-file-for-your-net-projects)
 - [I started a newsletter!](https://lucecarter.co.uk/blog/i-started-a-newsletter)
 - [Dreams can come true! My first week as a Developer Advocate at MongoDB](https://lucecarter.co.uk/blog/dreams-can-come-true-my-first-week-as-a-developer-advocate-at-mongodb)
-- [Troubleshooting Webhooks in Contentful](https://lucecarter.co.uk/blog/troubleshooting-webhooks-in-contentful)
-- [Zoom Zoom for Streamers - How to zoom in on just the code in VS Code](https://lucecarter.co.uk/blog/zoom-zoom-for-streamers-how-to-zoom-in-on-just-the-code-in-vs-code)
 <!-- BLOG-POST-LIST:END -->
